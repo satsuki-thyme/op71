@@ -1,0 +1,230 @@
+# キャラクターの基本設計
+## キャラクターの概要比較
+character overview comparison:
+  - レア
+  - メグ
+
+
+## 詳細
+details:
+  - name: レア
+    charm:
+      title:
+        - 芯が強い
+      entity:
+        predicament:
+          - 動じることなく果敢に挑む
+        normaly:
+          - 楽しげで前向き
+          - 重要でないことは気にしない
+    desire:
+      title:
+        - バランスを取りたい
+      conflict:
+        - 勢力バランスの崩れ
+        - 国外勢力の強い干渉
+      background connected to desire:
+        - 魔法の極致に滅びを見たこと
+        - デリケ・マイネルシア著「中庸論」
+    ordeal:
+      title:
+        - 
+      facing the inner self:
+        - 
+      collision opponent:
+        - 
+      how to overcome:
+        - 
+      inner change:
+        - 
+      right point:
+        - 
+      wrong point:
+        - 
+    what to do:
+      - 
+
+
+  - name: メグ
+    charm:
+      title:
+        - 
+      entity:
+        predicament:
+          - 
+        normaly:
+          - 
+    desire:
+      title:
+        - 
+      conflict:
+        - 
+      background connected to desire:
+        - 
+        - 
+    ordeal:
+      title:
+        - 
+      facing the inner self:
+        - 
+      collision opponent:
+        - 
+      how to overcome:
+        - 
+      inner change:
+        - 
+      right point:
+        - 
+      wrong point:
+        - 
+    what to do:
+      - 
+
+
+
+  - name: 
+    charm:
+      title:
+        - 
+      entity:
+        predicament:
+          - 
+        normaly:
+          - 
+    desire:
+      title:
+        - 
+      conflict:
+        - 
+      background connected to desire:
+        - 
+        - 
+    ordeal:
+      title:
+        - 
+      facing the inner self:
+        - 
+      collision opponent:
+        - 
+      how to overcome:
+        - 
+      inner change:
+        - 
+      right point:
+        - 
+      wrong point:
+        - 
+    what to do:
+      - 
+
+
+
+  - name: 
+    charm:
+      title:
+        - 
+      entity:
+        predicament:
+          - 
+        normaly:
+          - 
+    desire:
+      title:
+        - 
+      conflict:
+        - 
+      background connected to desire:
+        - 
+        - 
+    ordeal:
+      title:
+        - 
+      facing the inner self:
+        - 
+      collision opponent:
+        - 
+      how to overcome:
+        - 
+      inner change:
+        - 
+      right point:
+        - 
+      wrong point:
+        - 
+    what to do:
+      - 
+
+
+
+  - name: 
+    charm:
+      title:
+        - 
+      entity:
+        predicament:
+          - 
+        normaly:
+          - 
+    desire:
+      title:
+        - 
+      conflict:
+        - 
+      background connected to desire:
+        - 
+        - 
+    ordeal:
+      title:
+        - 
+      facing the inner self:
+        - 
+      collision opponent:
+        - 
+      how to overcome:
+        - 
+      inner change:
+        - 
+      right point:
+        - 
+      wrong point:
+        - 
+    what to do:
+      - 
+
+
+
+  - name: 
+    charm:
+      title:
+        - 
+      entity:
+        predicament:
+          - 
+        normaly:
+          - 
+    desire:
+      title:
+        - 
+      conflict:
+        - 
+      background connected to desire:
+        - 
+        - 
+    ordeal:
+      title:
+        - 
+      facing the inner self:
+        - 
+      collision opponent:
+        - 
+      how to overcome:
+        - 
+      inner change:
+        - 
+      right point:
+        - 
+      wrong point:
+        - 
+    what to do:
+      - 
+
