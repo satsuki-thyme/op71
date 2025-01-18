@@ -1,6 +1,6 @@
 # キャラクターの基本設計
-## キャラクターの概要比較
-character overview comparison:
+## 概要比較
+coverview comparison:
   - レア
   - メグ
 
@@ -21,18 +21,19 @@ details:
       title:
         - バランスを取りたい
       conflict:
-        - 勢力バランスの崩れ
+        - 国内勢力バランスの崩れ
         - 国外勢力の強い干渉
       background connected to desire:
         - 魔法の極致に滅びを見たこと
         - デリケ・マイネルシア著「中庸論」
     ordeal:
       title:
-        - 
+        - 国内の問題を平定できるか
       facing the inner self:
-        - 
+        - バランス
       collision opponent:
-        - 
+        - 対立する勢力
+        - 国外からの干渉
       how to overcome:
         - 
       inner change:
@@ -43,7 +44,24 @@ details:
         - 
     what to do:
       - 
+    uniq characteristic:
+      name: 
+      entities:
+        - name: 極端性
+          contents: 
 
+        - name: 希少性
+          contents: 
+
+        - name: 未知性
+          contents: 
+
+        - name: 秘密性
+          contents: 
+
+        - name: 違和感
+          contents: 
+    
 
   - name: メグ
     charm:
@@ -79,6 +97,23 @@ details:
         - 
     what to do:
       - 
+    uniq characteristic:
+      name: 
+      entities:
+        - name: 極端性
+          contents: 
+
+        - name: 希少性
+          contents: 
+
+        - name: 未知性
+          contents: 
+
+        - name: 秘密性
+          contents: 
+
+        - name: 違和感
+          contents: 
 
 
 
@@ -116,6 +151,23 @@ details:
         - 
     what to do:
       - 
+    uniq characteristic:
+      name: 
+      entities:
+        - name: 極端性
+          contents: 
+
+        - name: 希少性
+          contents: 
+
+        - name: 未知性
+          contents: 
+
+        - name: 秘密性
+          contents: 
+
+        - name: 違和感
+          contents: 
 
 
 
@@ -153,78 +205,23 @@ details:
         - 
     what to do:
       - 
+    uniq characteristic:
+      name: 
+      entities:
+        - name: 極端性
+          contents: 
+
+        - name: 希少性
+          contents: 
+
+        - name: 未知性
+          contents: 
+
+        - name: 秘密性
+          contents: 
+
+        - name: 違和感
+          contents: 
 
 
-
-  - name: 
-    charm:
-      title:
-        - 
-      entity:
-        predicament:
-          - 
-        normaly:
-          - 
-    desire:
-      title:
-        - 
-      conflict:
-        - 
-      background connected to desire:
-        - 
-        - 
-    ordeal:
-      title:
-        - 
-      facing the inner self:
-        - 
-      collision opponent:
-        - 
-      how to overcome:
-        - 
-      inner change:
-        - 
-      right point:
-        - 
-      wrong point:
-        - 
-    what to do:
-      - 
-
-
-
-  - name: 
-    charm:
-      title:
-        - 
-      entity:
-        predicament:
-          - 
-        normaly:
-          - 
-    desire:
-      title:
-        - 
-      conflict:
-        - 
-      background connected to desire:
-        - 
-        - 
-    ordeal:
-      title:
-        - 
-      facing the inner self:
-        - 
-      collision opponent:
-        - 
-      how to overcome:
-        - 
-      inner change:
-        - 
-      right point:
-        - 
-      wrong point:
-        - 
-    what to do:
-      - 
 

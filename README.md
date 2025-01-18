@@ -7,6 +7,11 @@
 ### 計画
 #### 基礎計画
 - plan/00/build.md: 構想
+- plan/00/init.yml: 初期設定
+
+#### 第1章
+- plan/01/character-base.yml: キャラクター設定
+- plan/01/init.yml:           初期構想
 
 ### メモ
 #### 第1章
