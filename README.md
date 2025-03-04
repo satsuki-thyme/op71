@@ -13,6 +13,13 @@
 - plan/01/character-base.yml: キャラクター設定
 - plan/01/init.yml:           初期構想
 
+### プロット
+#### 基礎プロット
+- plot/00/overview.yml: 総概要
+
+#### 第1章
+- plot/01/outline/outline.yml: 概要プロット
+
 ### メモ
 #### 第1章
 - memo/01/mem-001.md: ヒロイン登場時のイベント
@@ -24,3 +31,5 @@
 - thinking-notes/thi-003.md: 対立する陣営の優劣を決める要素は何？
 - thinking-notes/thi-004.md: 宮廷での闘争はどんな力が作用していた？
 - thinking-notes/thi-005.md: 宮廷内ではどんな派閥に分かれるの？
+- thinking-notes/thi-006.md: 第1章 概要プロットビルド
+- thinking-notes/thi-007.md: 第1章 概要プロットビルド
