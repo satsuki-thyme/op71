@@ -18,7 +18,11 @@
 - plot/00/overview.yml: 総概要
 
 #### 第1章
+##### 概要
 - plot/01/outline/outline.yml: 概要プロット
+
+##### 詳細
+- plot/01/details/001.md: 第1話
 
 ### メモ
 #### 第1章
