@@ -24,6 +24,9 @@
 ##### 詳細
 - plot/01/details/001.md: 第1話
 
+### 設定
+- settings/place.yml: 場所
+
 ### メモ
 #### 第1章
 - memo/01/mem-001.md: ヒロイン登場時のイベント
