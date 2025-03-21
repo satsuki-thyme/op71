@@ -40,3 +40,4 @@
 - thinking-notes/thi-005.md: 宮廷内ではどんな派閥に分かれるの？
 - thinking-notes/thi-006.md: 第1章 概要プロットビルド
 - thinking-notes/thi-007.md: 第1章 概要プロットビルド
+- thinking-notes/thi-008.md: 主人公の二面性

@@ -1,110 +1,53 @@
 # 総概要
-1:
-  theme: 旧神族の胎動
-  contents:
-    1:
-      theme: 異変
-      gists:
-        main:
-          - 国内問題の平定 1
-        sub:
-          - ヒロイン 1 との絆
-        foreshadowing:
-          - 新神族のチラ見せ
-          - 旧神族の気配
-          - ゼンダルク黒王国の気配
-          - 混沌の可能性 1
+declaration: 世界と神族の平定
+base theme: 調和
+protagonist theme: 魔素器官の受容と調和
+story theme: 新旧の融合
+contents:
 
-    2:
-      theme: 新神族の登場
-      gists:
-        main:
-          - 国内問題の平定 2
-            - ゼンダルク黒王国との間接的な戦い 1
-        sub:
-          - ヒロイン 2 との絆
-        foreshadowing:
-          - 新神族の登場
-          - 旧神族のチラ見せ
-          - 混沌の可能性 2
+  1:
+    declaration: 
+    base theme: 兆し・誕生
+    protagonist theme: 不安定な魔素器官
+    sub theme:
+      - ゼンダルク黒王国の気配
+      - 旧神族の気配
+      - 混沌の可能性
+      - ヒロイン1、恋の成立
+      - ヒロイン2、出会い
+    contents:
 
-2:
-  theme: 旧神族との戦い
-  contents:
-    3:
-      theme: 旧神族の登場
-      gists:
-        main:
-          - 国外問題の平定 1
-            - ゼンダルク黒王国との間接的な戦い 2
-            - 国外 = 対レグラード王国
-        sub:
-          - ヒロイン 1 との約束
-        foreshadowing:
-          - 旧神族の登場
-          - 旧神族との初戦
-          - 混沌の可能性 3
+  2:
+    declaration: 
+    base theme: 成長・拡大
+    protagonist theme: 魔素器官の受容の予兆
+    sub theme:
+      - ゼンダルク黒王国の露見
+      - 旧神族との対立
+      - 混沌の気配
+      - ヒロイン1、恋の発展
+      - ヒロイン2、思いの疎通
+    contents:
 
-    4:
-      theme: 旧神族との戦い
-      gists:
-        main:
-          - 国外問題の平定 2
-            - ゼンダルク黒王国との間接的な戦い 3
-        sub:
-          - ヒロイン 2 との約束
-        foreshadowing:
-          - 旧神族との戦い
-          - 新神族と旧神族の正体のチラ見せ
-          - 混沌の匂わせ 1
+  3:
+    declaration: 
+    base theme: 成熟・衰退
+    protagonist theme: 魔素器官との融合
+    sub theme:
+      - ゼンダルク黒王国の本格的な関与
+      - 旧神族との融和
+      - 混沌の出現
+      - ヒロイン1、絆の醸成と貫通
+      - ヒロイン2、溶け合い
+    contents:
 
-3:
-  theme: 両神族との戦い
-  contents:
-    5:
-      theme: 新神族と旧神族の正体
-      gists:
-        main:
-          - ゼンダルク黒王国問題の平定 1
-        sub:
-          - ヒロイン 1 とともに乗り越える試練
-        foreshadowing:
-          - 新神族と旧神族の正体の判明
-          - 旧神族への理解 => 新人族との戦いの匂わせ
-          - 混沌の匂わせ 2
-
-    6:
-      theme: 神族の平定
-      gists:
-        main:
-          - ゼンダルク黒王国問題の平定 2
-            - 両神族との戦い
-        sub:
-          - ヒロイン 2 とともに乗り越える試練
-        foreshadowing:
-          - 混沌のチラ見せ
-          - 浮遊大陸の匂わせ
-
-4:
-  theme: 混沌との戦い
-  contents:
-    7:
-      theme: 混沌との戦い
-      gists:
-        main:
-          - 浮遊大陸問題の平定 1
-            - 混沌との戦い 1
-        sub:
-          - ヒロイン 1 の貫通
-        foreshadowing:
-          - 混沌の核心の匂わせ
-
-    8:
-      theme: 混沌の超克
-      gists:
-        main:
-          - 浮遊大陸問題の平定 2
-            - 混沌との戦い 2
-        sub:
-          - ヒロイン 1 と 2 の貫通
-        foreshadowing:
+  4:
+    declaration: 
+    base theme: 終焉・調和
+    protagonist theme: 魔素器官と魔素の次元の融合
+    sub theme:
+      - ゼンダルク黒王国との戦い
+      - 新旧神族と混沌との戦い
+      - ヒロイン1、愛の試練
+      - ヒロイン2、work location
+    contents:
