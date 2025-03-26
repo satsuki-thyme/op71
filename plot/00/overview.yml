@@ -1,8 +1,9 @@
 # 総概要
-declaration: 世界と神族の平定
 base theme: 調和
-protagonist theme: 魔素器官の受容と調和
-story theme: 新旧の融合
+protagonist theme: 魔素器官の受容と調和、超越
+sub theme:
+  - 世界と神族の平定
+  - 新旧神族の融合
 contents:
 
   1:
@@ -10,11 +11,13 @@ contents:
     base theme: 兆し・誕生
     protagonist theme: 不安定な魔素器官
     sub theme:
+      - 国内の平定
+      - 新神族との融和
+    gist:
       - ゼンダルク黒王国の気配
       - 旧神族の気配
       - 混沌の可能性
-      - ヒロイン1、恋の成立
-      - ヒロイン2、出会い
+      - ヒロイン、恋の成立
     contents:
 
   2:
@@ -22,11 +25,13 @@ contents:
     base theme: 成長・拡大
     protagonist theme: 魔素器官の受容の予兆
     sub theme:
+      - 隣国の平定
+      - 旧神族の平定
+    gist:
       - ゼンダルク黒王国の露見
       - 旧神族との対立
       - 混沌の気配
-      - ヒロイン1、恋の発展
-      - ヒロイン2、思いの疎通
+      - ヒロイン、恋の発展
     contents:
 
   3:
@@ -34,20 +39,24 @@ contents:
     base theme: 成熟・衰退
     protagonist theme: 魔素器官との融合
     sub theme:
+      - 
+      - 
+    gist:
       - ゼンダルク黒王国の本格的な関与
       - 旧神族との融和
       - 混沌の出現
-      - ヒロイン1、絆の醸成と貫通
-      - ヒロイン2、溶け合い
+      - ヒロイン、絆の醸成と貫通
     contents:
 
   4:
     declaration: 
-    base theme: 終焉・調和
+    base theme: 終焉・調和・新生
     protagonist theme: 魔素器官と魔素の次元の融合
     sub theme:
+      - 
+      - 
+    gist:
       - ゼンダルク黒王国との戦い
       - 新旧神族と混沌との戦い
-      - ヒロイン1、愛の試練
-      - ヒロイン2、work location
+      - ヒロイン、愛の試練
     contents:
