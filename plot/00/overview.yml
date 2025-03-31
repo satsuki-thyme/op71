@@ -7,7 +7,6 @@ sub theme:
 contents:
 
   1:
-    declaration: 
     base theme: 兆し・誕生
     protagonist theme: 不安定な魔素器官
     sub theme:
@@ -18,10 +17,8 @@ contents:
       - 旧神族の気配
       - 混沌の可能性
       - ヒロイン、恋の成立
-    contents:
 
   2:
-    declaration: 
     base theme: 成長・拡大
     protagonist theme: 魔素器官の受容の予兆
     sub theme:
@@ -32,10 +29,8 @@ contents:
       - 旧神族との対立
       - 混沌の気配
       - ヒロイン、恋の発展
-    contents:
 
   3:
-    declaration: 
     base theme: 成熟・衰退
     protagonist theme: 魔素器官との融合
     sub theme:
@@ -46,10 +41,8 @@ contents:
       - 旧神族との融和
       - 混沌の出現
       - ヒロイン、絆の醸成と貫通
-    contents:
 
   4:
-    declaration: 
     base theme: 終焉・調和・新生
     protagonist theme: 魔素器官と魔素の次元の融合
     sub theme:
@@ -59,4 +52,3 @@ contents:
       - ゼンダルク黒王国との戦い
       - 新旧神族と混沌との戦い
       - ヒロイン、愛の試練
-    contents:

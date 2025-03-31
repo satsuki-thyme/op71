@@ -1,237 +1,49 @@
 # 概要プロット 第1章
-1:
-  declaration: 国内問題の勃発
-  theme: 
-  logline: 
-  contents:
+base theme: 兆し・誕生
+protagonist theme: 不安定な魔素器官
+sub theme:
+  - 国内の平定
+  - 新神族との融和
+gist:
+  - ゼンダルク黒王国の気配
+  - 旧神族の気配
+  - 混沌の可能性
+  - ヒロイン、恋の成立
+contents:
 
-    1:
-      meta:
-        title: 暗殺未遂事件
-        theme: 
-        logline: 
-      gist:
-        - 事件
-        - その後の密偵とのやり取り
-          - ゼンダルク黒王国の気配 <= fsd
-          - そろそろお遊びも終わりにするか
-          - 南方が怪しいと思っている、一番手強いところから調べてくれ <= fsd
+  1:
+    protagonist theme: 好調
+    sub theme: 
+      - 皇太子位争いの勃発
+      - 新神族との邂逅
+    logline: 
+    contents:
 
-    2:
-      meta:
-        title: 日常と変わらない時間
-        theme: 
-        logline: 
-      gist:
-        - 精霊との鍛錬
-        - 精霊との論議
-        - 密偵とのやり取りを入れる
+  2:
+    protagonist theme: もっと好調
+    sub theme: 
+      - 激化する皇太子位争い
+      - 新神族の秘められた役割
+    logline: 
+    contents:
 
-    3:
-      meta:
-        title: 宮廷
-        theme: 
-        logline: 
-      gist:
-        - 兄たちの対立
-        - 王女
-        - 密偵とのやり取りを入れる
+      last episode:
+        gist:
+          - 戦争を止める
+          - 生死を彷徨う
 
-    4:
-      meta:
-        title: 王女との時間
-        theme: 
-        logline: 
-      gist:
-        - 文
-          - 旧神族の気配 <= fsd
-          - 混沌の可能性 <= fsd
-        - 武
-        - 密偵とのやり取りでガイオニッツ卿の名が出てくる => 動き始める
+  3:
+    protagonist theme: 復調
+    sub theme: 
+      - 
+      - 
+    logline: 
+    contents:
 
-2:
-  declaration: 辺境の森
-  theme: 
-  logline: 
-  contents:
-
-    5:
-      meta:
-        title: サバイバルな日々 1
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    6:
-      meta:
-        title: サバイバルな日々 2
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    7:
-      meta:
-        title: サバイバルな日々 3
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    8:
-      meta:
-        title: 村 1
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    9:
-      meta:
-        title: 村 2
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    10:
-      meta:
-        title: 村 3
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    11:
-      meta:
-        title: ドラゴン 1
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    12:
-      meta:
-        title: ドラゴン 2
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    13:
-      meta:
-        title: 水着回
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    14:
-      meta:
-        title: 凱旋
-        theme: 
-        logline: 
-      gist:
-        - 
-
-3:
-  declaration: 南部騒乱
-  theme: 
-  logline: 
-  contents:
-
-    15:
-      meta:
-        title: 両陣営訪問 1
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    16:
-      meta:
-        title: 両陣営訪問 2
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    17:
-      meta:
-        title: 深夜の来訪者 1
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    18:
-      meta:
-        title: 深夜の来訪者 2
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    19:
-      meta:
-        title: 王女誘拐 1
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    20:
-      meta:
-        title: 王女誘拐 2
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    21:
-      meta:
-        title: 王女誘拐 3
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    22:
-      meta:
-        title: 城内を移動してガイオニッツ卿の部屋で証拠を探す
-        theme: 
-        logline: 
-      gist:
-        - 
-
-    23:
-      meta:
-        title: ガイオニッツ卿が登場して目くらましを受けてその間に召喚された魔物と戦う
-        theme: 
-        logline: 
-      gist:
-        - 
-
-
-    24:
-      meta:
-        title: イビルドラゴン
-        theme: 
-        logline: 
-      gist:
-        - 
-
-4:
-  declaration: 国内問題の解決
-  theme: 
-  logline: 
-  contents:
-
-    25:
-      meta:
-        title: 明日に向かって
-        theme: 
-        logline: 
-      gist:
-        - 
+  4:
+    protagonist theme: 絶好調
+    sub theme: 
+      - 
+      - 
+    logline: 
+    contents:
