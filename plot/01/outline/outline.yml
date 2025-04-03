@@ -9,25 +9,31 @@ gist:
   - 旧神族の気配
   - 混沌の可能性
   - ヒロイン、恋の成立
+note:
+  - 新神族は地上に恣意的な干渉ができない協定になっている
 contents:
 
   1:
-    protagonist theme: 好調
+    protagonist theme: 好調、追い上げる感
     sub theme: 
       - 皇太子位争いの勃発
       - 新神族との邂逅
     logline: 
+    note:
+      - 
     contents:
 
   2:
-    protagonist theme: もっと好調
+    protagonist theme: もっと好調、順調に追い上げる感
     sub theme: 
       - 激化する皇太子位争い（戦争直前）
       - 新神族の秘められた役割
     logline: 
+    note:
+      - 
     contents:
 
-      last episode:
+      last episode of section:
         gist:
           - 戦争を止める
           - 生死を彷徨う
@@ -35,9 +41,11 @@ contents:
   3:
     protagonist theme: 復調
     sub theme: 
-      - 
-      - 
+      - 皇太子位争いを裏から操っていた者との戦い
+      - 新神族の
     logline: 
+    note:
+      - 
     contents:
 
   4:
@@ -46,4 +54,6 @@ contents:
       - 
       - 
     logline: 
+    note:
+      - 
     contents:
